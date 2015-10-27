@@ -1,3 +1,4 @@
+// Packages
 package ca.ualberta.ssrg.movies;
 
 import android.app.Activity;
